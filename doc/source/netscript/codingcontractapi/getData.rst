@@ -12,3 +12,5 @@ getData() Netscript Function
     the contract wants you to act on in order to solve
 
     :returns: The specified contract's data
+
+    :RAM cost: 5 GB
