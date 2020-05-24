@@ -2,6 +2,7 @@ getAugmentationPrereq() Netscript Function
 ==========================================
 
 .. js:function:: getAugmentationPrereq(augName)
+    :RAM cost: 5 GB
 
     :param string augName: Name of Augmentation. CASE-SENSITIVE
 
